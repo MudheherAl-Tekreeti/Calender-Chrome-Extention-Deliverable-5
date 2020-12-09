@@ -7,7 +7,8 @@ I like making things more efficient and when we got a google calender I knew tha
 
 * Demo
 Currently this is the layout I have made but I think the closer and closer I get to finishing it will look much different as I hope to have the blocks interchangable so the next class is always at the top. 
-            *Picture of Icon and Layout*
+![](All/ALL%20CALENDER%20EXTENTION%20CODE/Calender%20Extention%20Code/ICONExample)
+![](All/ALL%20CALENDER%20EXTENTION%20CODE/Calender%20Extention%20Code/Example)
             
 * Technologies Used
 I used Atom to make all of this code come to life which is just my prefered coding software I also used XAMPP to test out the server side and build with that using my local server, this allowed me to essentially run a working version of my project without having to buy a domain name yet and deal with that new learning. In terms of resources there was a lot to HTML and CSS I did not know and I mainly used W3 Schools to deal with those issues and if I couldnt find my anwser there I would go on stackflower and if I even couldnt find it there I would simpley talk to people on redit about what Im doing and see their imput. Since there were so many resources out there it was much easier to learn HTML and CSS. My biggest trouble was learning PHP, it was truely like learning a new language to how different it is which ofcourse it should be because they deal with a whole other part of project. For that I took a course called PHP Essential Training which helped me get down the basics so I wasnt completley lost in the process. Since I am also working with google I used their Intro file and guide to learn how to make the extention in the first place and how to connect to their Calender which also required a guide from google.
